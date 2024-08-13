@@ -1,4 +1,4 @@
-   React Day_1
+ # React.JS-Day1
 
 // ChakraComponent.js
 import React from 'react';
