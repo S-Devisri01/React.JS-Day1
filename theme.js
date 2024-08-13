@@ -1,4 +1,4 @@
-# React Day_1
+# React.JS-Day1
 
 // theme.js
 import { extendTheme } from '@chakra-ui/react';
