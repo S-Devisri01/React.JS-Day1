@@ -1,4 +1,4 @@
-   React day_1
+# React.JS-Day1
 
 // index.js
 import React from 'react';
